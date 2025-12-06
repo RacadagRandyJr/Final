@@ -1,0 +1,1 @@
+This code uses a greedy algorithm to always cut the board along the most expensive line first, multiplying the cost by the number of segments it crosses, to compute the minimum total cost of cutting the board into unit squares modulo 10^9+7.

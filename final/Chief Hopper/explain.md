@@ -1,0 +1,1 @@
+This function computes the minimum starting energy a robot needs to cross all buildings safely by iterating backwards and applying the energy balance formula.

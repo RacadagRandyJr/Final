@@ -1,0 +1,1 @@
+This program reads a weighted directed graph, applies a Floyd–Warshall–style algorithm to compute shortest paths, and then outputs the shortest distance (or -1 if unreachable) for each query pair of nodes.

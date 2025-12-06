@@ -1,0 +1,1 @@
+This code solves the DNA Health problem by mapping genes to their indices and health prefix sums, scanning each DNA strand for matching substrings, summing valid health contributions, and finally outputting the minimum and maximum health values across all strands.

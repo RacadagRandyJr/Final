@@ -1,0 +1,1 @@
+This function merges two strings character by character, always choosing the lexicographically smaller remaining substring, to produce the smallest possible merged string.

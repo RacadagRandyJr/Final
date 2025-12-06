@@ -1,0 +1,1 @@
+This function simulates candy production with machines and workers, greedily buying upgrades and balancing them to maximize output, while tracking the minimum number of passes needed to reach the target n.
